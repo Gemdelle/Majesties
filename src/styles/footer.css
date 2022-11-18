@@ -1,0 +1,16 @@
+footer {
+    height: 100px;
+    background-image: url(/public/images/Footer.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer p {
+    position: relative;
+    top: 25px;
+    font-style: italic;
+    color: rgb(195, 195, 195);
+}

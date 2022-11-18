@@ -1,0 +1,126 @@
+{
+  "majesties": {
+    "bloodlines": {
+      "porveldam": [
+        {
+          "name":"Arminarigknot",
+          "answer": "RING",
+          "rightImageSrc": "images/riddles/R_Arminarigknot.png",
+          "wrongImageSrc": "images/riddles/W_Arminarigknot.png",
+          "riddleImageSrc": "images/riddles/B_Arminarigknot.png"
+        },
+        {
+          "name":"Hestiarethe",
+          "answer": "HEART",
+          "rightImageSrc": "images/riddles/R_Hestiarethe.png",
+          "wrongImageSrc": "images/riddles/W_Hestiarethe.png",
+          "riddleImageSrc": "images/riddles/B_Hestiarethe.png"
+        },
+        {
+          "name":"Stridellarean",
+          "answer": "AIR",
+          "rightImageSrc": "images/riddles/R_Stridellarean.png",
+          "wrongImageSrc": "images/riddles/W_Stridellarean.png",
+          "riddleImageSrc": "images/riddles/B_Stridellarean.png"
+        },
+        {
+          "name":"Dreemurdomme",
+          "answer": "DREAM",
+          "rightImageSrc": "images/riddles/R_Dreemurdomme.png",
+          "wrongImageSrc": "images/riddles/W_Dreemurdomme.png",
+          "riddleImageSrc": "images/riddles/B_Dreemurdomme.png"
+        }
+      ],
+      "spadelline": [
+        {
+          "name":"Buddelizeth",
+          "answer": "BUD",
+          "rightImageSrc": "images/riddles/R_Buddelizeth.png",
+          "wrongImageSrc": "images/riddles/W_Buddelizeth.png",
+          "riddleImageSrc": "images/riddles/B_Buddelizeth.png"
+        },
+        {
+          "name":"Deellycella",
+          "answer": "LACE",
+          "rightImageSrc": "images/riddles/R_Deellycella.png",
+          "wrongImageSrc": "images/riddles/W_Deellycella.png",
+          "riddleImageSrc": "images/riddles/B_Deellycella.png"
+        },
+        {
+          "name":"Primrosenrot",
+          "answer": "ROSE",
+          "rightImageSrc": "images/riddles/R_Primrosenrot.png",
+          "wrongImageSrc": "images/riddles/W_Primrosenrot.png",
+          "riddleImageSrc": "images/riddles/B_Primrosenrot.png"
+        },
+        {
+          "name":"Brincellezha",
+          "answer": "RAIN",
+          "rightImageSrc": "images/riddles/R_Brincellezha.png",
+          "wrongImageSrc": "images/riddles/W_Brincellezha.png",
+          "riddleImageSrc": "images/riddles/B_Brincellezha.png"
+        }
+      ],
+      "zephiroth": [
+        {
+          "name":"Lagrimelle",
+          "answer": "TEARS",
+          "rightImageSrc": "images/riddles/R_Lagrimelle.png",
+          "wrongImageSrc": "images/riddles/W_Lagrimelle.png",
+          "riddleImageSrc": "images/riddles/B_Lagrimelle.png"
+        },
+        {
+          "name":"Deestellirys",
+          "answer": "DESTINY",
+          "rightImageSrc": "images/riddles/R_Deestellirys.png",
+          "wrongImageSrc": "images/riddles/W_Deestellirys.png",
+          "riddleImageSrc": "images/riddles/B_Deestellirys.png"
+        },
+        {
+          "name":"Damglantine",
+          "answer": "DEPTH",
+          "rightImageSrc": "images/riddles/R_Damglantine.png",
+          "wrongImageSrc": "images/riddles/W_Damglantine.png",
+          "riddleImageSrc": "images/riddles/B_Damglantine.png"
+        },
+        {
+          "name":"Bricellice",
+          "answer": "BREEZE",
+          "rightImageSrc": "images/riddles/R_Bricellice.png",
+          "wrongImageSrc": "images/riddles/W_Bricellice.png",
+          "riddleImageSrc": "images/riddles/B_Bricellice.png"
+        }
+      ],
+      "gladasmy": [
+        {
+          "name":"Asticedicair",
+          "answer": "DICE",
+          "rightImageSrc": "images/riddles/R_Asticedicair.png",
+          "wrongImageSrc": "images/riddles/W_Asticedicair.png",
+          "riddleImageSrc": "images/riddles/B_Asticedicair.png"
+        },
+        {
+          "name":"Greedgardelline",
+          "answer": "GARDEN",
+          "rightImageSrc": "images/riddles/R_Greedgardelline.png",
+          "wrongImageSrc": "images/riddles/W_Greedgardelline.png",
+          "riddleImageSrc": "images/riddles/B_Greedgardelline.png"
+        },
+        {
+          "name":"Praireclovianne",
+          "answer": "CLOVER",
+          "rightImageSrc": "images/riddles/R_Praireclovianne.png",
+          "wrongImageSrc": "images/riddles/W_Praireclovianne.png",
+          "riddleImageSrc": "images/riddles/B_Praireclovianne.png"
+        },
+        {
+          "name":"Vrillyarethez",
+          "answer": "SPARK",
+          "rightImageSrc": "images/riddles/R_Vrillyarethez.png",
+          "wrongImageSrc": "images/riddles/W_Vrillyarethez.png",
+          "riddleImageSrc": "images/riddles/B_Vrillyarethez.png"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+/* font-family: 'Abyssinica SIL', serif;
+font-family: 'Alice', serif;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'EB Garamond', serif; 
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Old Standard TT', serif;-> BODY
+font-family: 'Pinyon Script', cursive; -> TITLES
+font-family: 'Satisfy', cursive;
+font-family: 'Tangerine', cursive; */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Old Standard TT', serif;
+  background: linear-gradient(90deg,#8e917e 0%, #e6dede 50%, #8e917e 100%);
+}
+
+h1 {
+  font-family: 'Pinyon Script', cursive;
+  text-shadow: 4px 4px 6px rgba(0,0,0,0.6);
+}
+
+
+
+
+

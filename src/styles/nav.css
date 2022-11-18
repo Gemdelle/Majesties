@@ -1,0 +1,28 @@
+nav {
+    height: 30px;
+    background: #554f4f;
+    border-bottom: 3px double lightgray;
+    border-top: 3px double lightgray;
+    font-family: 'Tangerine', cursive;
+    font-size: 25px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-grow: 1;
+  }
+  
+  nav ul li {
+    flex-grow: 1;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 3px 6px;
+    display: block;
+    text-align: center;
+  }

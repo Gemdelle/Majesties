@@ -1,0 +1,104 @@
+.gallery {
+    max-width: 1000px;
+    margin: 0 auto 30px;
+  }
+
+  .dressupcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .sisters {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+  .clothes {
+    height: 120px;
+    width: 420px;
+    margin: 30px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 12px ridge #b9b7ac;
+  }
+
+  .twina {
+    background: #f0f0e9; 
+  }
+
+  .twinb {
+    background: #efdbdb;
+  }
+
+  .bij {
+    width: 100px;
+    cursor: pointer;
+  }
+
+  .bijn {
+    width: 100px;
+    cursor: pointer;
+    filter: grayscale(60%);
+  }
+
+  .bijim01A {
+    width: 120px;
+    position: absolute;
+    left: 510px;
+    bottom: -58px;
+    filter: grayscale(60%);
+  }
+
+  .bijim01B {
+    width: 210px;
+    position: absolute;
+    left: 470px;
+    bottom: 220px;
+  }
+
+  .bijim01C {
+    width: 25px;
+    position: absolute;
+    left: 475px;
+    bottom: 130px;
+    transform: rotate(-15deg);
+  }
+
+  .bijim01D {
+    width: 100px;
+    position: absolute;
+    left: 520px;
+    bottom: 30px;
+  }
+
+  .bijim02A {
+    width: 80px;
+    position: absolute;
+    left: 840px;
+    bottom: -80px;
+    transform: rotate(15deg);
+  }
+
+  .bijim02B {
+    width: 150px;
+    position: absolute;
+    left: 838px;
+    bottom: 145px;
+  }
+
+  .bijim02C {
+    width: 100px;
+    position: absolute;
+    left: 980px;
+    bottom: 20px;
+  }
+
+  .bijim02D {
+    width: 100px;
+    position: absolute;
+    left: 990px;
+    bottom: 180px;
+    transform: rotate(15deg);
+  }

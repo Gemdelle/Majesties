@@ -1,0 +1,82 @@
+.gallery {
+    max-width: 960px;
+    margin: 0 auto 30px;
+}
+
+.majesty {
+    height: 400px;
+    margin-top: -50px;
+    margin-bottom: 180px;
+    display: flex;
+}
+
+.base {
+    width: 800px;
+    position: absolute;
+    right: 350px;
+    z-index: -2;
+    margin: 50px 0px;
+}
+
+.portraitr {
+    height: 500px;
+    position: absolute;
+    right: 970px;
+    z-index: 1;
+    animation: all 500ms ease-out;
+}
+
+.portraitw {
+    height: 500px;
+    position: absolute;
+    right: 970px;
+    z-index: 1;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Pinyon Script', cursive;
+    text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.6);
+}
+
+.porveldam {
+    color: rgb(55, 22, 22);
+}
+
+.spadelline {
+    color: rgb(100, 82, 99);
+}
+
+.zephiroth {
+    color: rgb(77, 82, 95);
+}
+
+.gladasmy {
+    color:rgb(88, 100, 96);
+}
+
+.answercontainer {
+    height: 50px;
+    width: 300px;
+    position: relative;
+    top: 445px;
+    left: 340px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.answercontainer input {
+    width: 250px;
+    height: 30px;
+    border: 10px ridge rgb(181, 181, 168);
+    text-align: center;
+}
+
+.answer {
+    color: rgb(228, 224, 215);
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 35px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+}

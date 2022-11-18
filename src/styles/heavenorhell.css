@@ -1,0 +1,116 @@
+.gallery {
+    max-width: 960px;
+    margin: 0 auto 30px;
+  }
+
+h1 {
+  margin-top: 0;
+  padding-top: 30px;
+}
+
+.heavenorhell {
+  height: 800px;
+  background-image: url(/public/images/heavenorhell/Background.png);
+  background-size: cover;
+  margin-bottom: 30px;
+}
+
+.angels {
+  width: 300px;
+  position: absolute;
+  left: 830px;
+  bottom: 320px;
+}
+
+.riddles {
+  width: 900px;
+  display: flex;
+/*   background-color: azure; */
+  justify-content: space-between;
+  margin-top: 150px;
+}
+
+.riddle {
+  height: 250px;
+}
+
+.petdiv {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pet {
+  position: absolute;
+  width: 200px;
+  top: 237px;
+  filter: invert(90%) brightness(80%);
+}
+
+.cage {
+  position: absolute;
+  width: 200px;
+  bottom: 68px;
+  right: 10px;
+}
+
+.sparkle {
+  position: absolute;
+  width: 200px;
+  bottom: 30px;
+  filter: grayscale(100%);
+}
+
+.counter01 {
+  bottom: 125px;
+  left: 350px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+}
+
+.more01 {
+  bottom: 70px;
+  left: 400px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
+}
+
+.less01 {
+  bottom: 70px;
+  left: 295px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
+}
+
+.counter01 {
+  bottom: 125px;
+  left: 350px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+}
+
+.counter02 {
+  color: aqua;
+}
+
+.counter03 {
+  color: aqua;
+}
+
+.counter04 {
+  color: aqua;
+}
