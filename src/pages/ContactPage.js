@@ -28,7 +28,7 @@ const ContactPage = (props) => {
             </form>
         </section>
         <section className="data">
-            <h2>Other mediums of contact</h2>
+            <h2>Other means of contact</h2>
             <p>You can also contact us through the following means</p>
             <ul>
                 <li><i className="fa-brands fa-instagram icon"></i> <a href="https://www.google.com/.ar/">Instagram</a></li>

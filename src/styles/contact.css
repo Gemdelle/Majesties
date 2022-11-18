@@ -1,6 +1,6 @@
-/* .titles h2{
-    margin: 0px 0px 15px 0px;
-} */
+section {
+    margin-left: 50px;
+}
 
 .contact {
     display: flex;
@@ -28,10 +28,18 @@
 
 .data ul li a {
     margin-left: 8px;
+    color: #6b6b6b;
+}
+
+.data ul li a:hover {
+    color: #3b3b3b;
 }
 
 .icon {
-    color: #104C8F;
+    color: #41403d;
+    text-shadow: 4px 4px 6px rgba(0,0,0,0.6);
+    margin-right: 15px;
+    margin-top: 8px;
 }
 
 .form p {
@@ -46,15 +54,15 @@
 
 .form p:nth-child(4) {
     align-items: flex-start;
-    /* Para ubicar 'Mensaje' en la parte inicial del text area. */
 }
 
 .form p input,
 .form p textarea {
     width: 100%;
     background-color: lightgray;
+    
     border-radius: 5px;
-    border: 1px solid #999;
+    border: 5px ridge #deddd5;
     font-size: 14px;
     padding: 6px;
 }
@@ -65,20 +73,18 @@
 }
 
 .form input[type="submit"] {
-    background-color: #4c76a5;
+    background-color: #676761;
     box-shadow: 0 0 10px gray;
+    border: 5px ridge #b9b7ac;
     color: white;
-    font-size: 16px;
+    font-size: 20px;
+    font-family: 'Pinyon Script', cursive;
     width: 365px;
-    margin-left: 100px;
+    margin-left: 200px;
     transition: all 0.2s ease;
     cursor: pointer;
 }
 
 .form input[type="submit"]:hover {
-    background-color: #23384f;
-}
-
-.data {
-    margin-left: 50px;
+    background-color: #404138;
 }

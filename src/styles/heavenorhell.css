@@ -45,21 +45,21 @@ h1 {
 .pet {
   position: absolute;
   width: 200px;
-  top: 237px;
+  top: 765px;
   filter: invert(90%) brightness(80%);
 }
 
 .cage {
   position: absolute;
   width: 200px;
-  bottom: 68px;
-  right: 10px;
+  bottom: -240px;
+  right: 650px;
 }
 
 .sparkle {
   position: absolute;
   width: 200px;
-  bottom: 30px;
+  top: 720px;
   filter: grayscale(100%);
 }
 
@@ -94,23 +94,95 @@ h1 {
   cursor: pointer;
 }
 
-.counter01 {
+.counter02 {
   bottom: 125px;
-  left: 350px;
+  left: 585px;
   position: absolute;
   height: 20px;
   width: 20px;
   text-align: center;
 }
 
-.counter02 {
-  color: aqua;
+.more02 {
+  bottom: 70px;
+  left: 635px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
+}
+
+.less02 {
+  bottom: 70px;
+  left: 530px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
 }
 
 .counter03 {
-  color: aqua;
+  bottom: 125px;
+  left: 820px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+}
+
+.more03 {
+  bottom: 70px;
+  left: 870px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
+}
+
+.less03 {
+  bottom: 70px;
+  left: 765px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
 }
 
 .counter04 {
-  color: aqua;
+  bottom: 125px;
+  left: 1055px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+}
+
+.more04 {
+  bottom: 70px;
+  left: 1105px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
+}
+
+.less04 {
+  bottom: 70px;
+  left: 1000px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
 }
