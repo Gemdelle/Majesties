@@ -5,8 +5,8 @@
 
 .majesty {
     height: 400px;
-    margin-top: -50px;
-    margin-bottom: 180px;
+    margin-top: 3vw;
+    margin-bottom: 12vw;
     display: flex;
 }
 
@@ -37,6 +37,8 @@ h2 {
     text-align: center;
     font-family: 'Pinyon Script', cursive;
     text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.6);
+    position: relative;
+    left: 11vw;
 }
 
 .porveldam {
@@ -60,7 +62,7 @@ h2 {
     width: 300px;
     position: relative;
     top: 445px;
-    left: 340px;
+    left: 28.6vw;
     display: flex;
     justify-content: center;
     align-items: center;
