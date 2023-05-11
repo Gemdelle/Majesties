@@ -87,7 +87,7 @@ const DressupPage = (props) => {
         <main className='gallery'>
             <h1>Dress - Up the Twins</h1>
             <div className='dressupcontainer'>
-                <img className="sisters" src='images/dressup/sisters.png' alt='twins' />
+                <img className="sisters" src='images/dressup/Sisters.png' alt='twins' />
 
 
                 <img className="bijim01A" src='images/dressup/01A.gif' alt='twins' style={{ display: (A01Visibility) ? "" : "none" }} />
